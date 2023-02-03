@@ -1,0 +1,2 @@
+# pyiron setup
+printf "[DEFAULT]\nTOP_LEVEL_DIRS = ${HOME}\nRESOURCE_PATHS = /srv/conda/envs/notebook/share/pyiron" > ${HOME}/.pyiron
