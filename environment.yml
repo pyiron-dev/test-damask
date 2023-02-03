@@ -1,6 +1,7 @@
 channels:
 - conda-forge
 dependencies:
+- python =3.9
 - damask =3.0.0a7
 - fenics =2019.1.0=*_34
 - mshr =2019.1.0=*_7
